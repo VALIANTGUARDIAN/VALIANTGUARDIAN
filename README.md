@@ -8,8 +8,8 @@
  </div>
 </div>
 
-### 🖥️ I’m currently working on [MVC REST API](https://github.com/VALIANTGUARDIAN/mvc-api)
-❓ Ask me about anything related to web development and related technologies
+### 🖥️ I’m currently working on [MVC REST API](https://github.com/VALIANTGUARDIAN/mvc-api) <br />
+❓ Ask me about anything related to web development and related technologies <br />
 ### ⚡ Fun fact: SEO is equally important❗❗❗
 
 <br/>
