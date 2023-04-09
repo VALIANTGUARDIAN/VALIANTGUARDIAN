@@ -8,6 +8,8 @@
 ❓ Ask me about anything related to web development and related technologies
 ### ⚡ Fun fact: SEO is equally important❗❗❗
 
+<img align="right" height="270px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
+
 <br/>
 
 <br/>
