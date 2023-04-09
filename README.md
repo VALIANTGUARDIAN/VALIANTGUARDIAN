@@ -34,19 +34,22 @@
 <img src=https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white alt=StyledComponents style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white alt=TailwindCSS style="margin-bottom: 5px;" />
 <br/>
-<img src=https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white alt=Heroku style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 alt=Netlify style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white alt=Oracle style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB alt=Express.js style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE alt=Insomnia style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white alt=Postman style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white alt=NPM style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens alt=JWT style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white alt=NodeJS style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB alt=Express.js style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens alt=JWT style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101 alt=Socket.io style="margin-bottom: 5px;" />
+<br />
 <img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white alt=MongoDB style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white alt=MySQL style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white alt=Figma style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white alt=Oracle style="margin-bottom: 5px;" />
+<br/>
+<img src=https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE alt=Insomnia style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white alt=Postman style="margin-bottom: 5px;" />
+<br/>
+
+<img src=https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white alt=Heroku style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 alt=Netlify style="margin-bottom: 5px;" />
 </div>
 <br />
 
