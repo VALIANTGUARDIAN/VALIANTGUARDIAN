@@ -48,11 +48,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valiantguardian&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valiantguardian&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-##📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=valiantguardian&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=valiantguardian&theme=city_light&hide_border=false)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valiantguardian&theme=city_light&hide_border=false" align="center" />
 </div> 
 
 
