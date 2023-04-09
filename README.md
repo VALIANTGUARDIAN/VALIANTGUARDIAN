@@ -34,9 +34,6 @@
 <img src=https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white alt=StyledComponents style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white alt=TailwindCSS style="margin-bottom: 5px;" />
 <br/>
-
-
-
 <img src=https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white alt=Heroku style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 alt=Netlify style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white alt=Oracle style="margin-bottom: 5px;" />
