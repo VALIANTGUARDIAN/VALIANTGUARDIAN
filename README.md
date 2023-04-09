@@ -42,7 +42,8 @@
 <br />
 <img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white alt=MongoDB style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white alt=MySQL style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white alt=Oracle style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white alt=Oracle style="margin-bottom: 5px;" /> 
+<img src= https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white alt=git style="margin-bottom: 5px;" />
 <br/>
 <img src=https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE alt=Insomnia style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white alt=Postman style="margin-bottom: 5px;" />
