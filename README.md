@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=valiantguardian&theme=chalk&no-frame=false&no-bg=true&margin-w=5" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=valiantguardian&theme=chalk&no-frame=false&no-bg=true&margin-w=7" align="center" />
 </div> 
 
 
