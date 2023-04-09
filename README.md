@@ -17,7 +17,7 @@
 
 <div>
  <div>
- <img align="right" height="200px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
+ <img align="center" height="200px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
  </div>
 <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white alt=HTML5 style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white alt=CSS3 style="margin-bottom: 5px;" />
