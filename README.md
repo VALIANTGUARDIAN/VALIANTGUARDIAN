@@ -4,11 +4,10 @@
 
 # <div align="center">I'm Digvijay,<br> A Full-stack developer<br> ⚛👨‍💻🅰</div>
 
+<img align="right" height="270px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
 ### 🖥️ I’m currently working on [MVC REST API](https://github.com/VALIANTGUARDIAN/mvc-api)
 ❓ Ask me about anything related to web development and related technologies
 ### ⚡ Fun fact: SEO is equally important❗❗❗
-
-<img align="right" height="270px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
 
 <br/>
 
