@@ -26,7 +26,6 @@
 <img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white alt=TypeScript style="margin-bottom: 5px;" />
 <br/>
 <img src=https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white alt=Angular style="margin-bottom: 5px;" />
-
 <img src=https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white alt=Redux style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white alt=NextJS style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB alt=React style="margin-bottom: 5px;" />
