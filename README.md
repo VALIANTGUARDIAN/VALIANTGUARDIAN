@@ -46,7 +46,6 @@
 <br/>
 <img src=https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE alt=Insomnia style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white alt=Postman style="margin-bottom: 5px;" />
-<br/>
 <img src=https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white alt=Heroku style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 alt=Netlify style="margin-bottom: 5px;" />
 </div>
