@@ -2,10 +2,11 @@
 <img src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/banner.png" align="center" style="width: 100%" />
 </div>
 
-# <div align="center">I'm Digvijay,<br> A Full-stack developer<br> ⚛👨‍💻🅰</div>
+# <div align="center">I'm Digvijay,<br> A Full-stack developer<br> ⚛👨‍💻🅰
+<img align="right" height="270px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
+</div>
 
 ### 🖥️ I’m currently working on [MVC REST API](https://github.com/VALIANTGUARDIAN/mvc-api)
-<img align="right" height="270px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
 ❓ Ask me about anything related to web development and related technologies
 ### ⚡ Fun fact: SEO is equally important❗❗❗
 
