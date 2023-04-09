@@ -3,7 +3,6 @@
 </div>
 
 # <div align="center">I'm Digvijay,<br> A Full-stack developer<br> ⚛👨‍💻🅰
-<img align="right" height="270px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
 </div>
 
 ### 🖥️ I’m currently working on [MVC REST API](https://github.com/VALIANTGUARDIAN/mvc-api)
@@ -16,7 +15,8 @@
 
 # 💻 Tech Stack:
 
-<div align="center">
+<div> 
+<img align="right" height="270px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
 <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white alt=HTML5 style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white alt=CSS3 style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black alt=Babel style="margin-bottom: 5px;" />
