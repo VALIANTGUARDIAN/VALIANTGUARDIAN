@@ -4,10 +4,9 @@
 
 # <div align="center">I'm Digvijay,<br> A Full-stack developer<br> ⚛👨‍💻🅰</div>
 
-
--### 🖥️ I’m currently working on [MVC REST API](https://github.com/VALIANTGUARDIAN/mvc-api)
--### ❓ Ask me about anything related to web development and related technologies
--### ⚡ Fun fact: SEO is equally important❗❗❗
+### 🖥️ I’m currently working on [MVC REST API](https://github.com/VALIANTGUARDIAN/mvc-api)
+###❓ Ask me about anything related to web development and related technologies
+### ⚡ Fun fact: SEO is equally important❗❗❗
 
 <br/>
 
