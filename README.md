@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Digvijay,<br>  a Full-stack developer<br> ⚛👨‍💻🅰</div>  
+# <div align="center">I'm Digvijay,<br> A  Full-stack developer<br> ⚛👨‍💻🅰</div>  
   
 
 - #### 🖥️ I’m currently working on [MVC REST API](https://github.com/VALIANTGUARDIAN/mvc-api)  
@@ -66,6 +66,9 @@
 </div>  
   
 
+---
+[![](https://visitcount.itsvg.in/api?id=valiantguardian&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <br/>  
 
 <div align="center">
@@ -90,6 +93,4 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=valiantguardian&icon=0&color=0)](https://visitcount.itsvg.in)
 
