@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/digvijay10/digvijay10/blob/main/banner.png" align="center" style="width: 100%" />
 </div>
 
 # <div align="center">I'm Digvijay,<br> A Full-stack developer<br> ⚛👨‍💻🅰
   <div>
- <img align="right" height="200px" alt="GIF" src="https://github.com/VALIANTGUARDIAN/valiantguardian/blob/main/coder.gif" />
+ <img align="right" height="200px" alt="GIF" src="https://github.com/digvijay10/digvijay10/blob/main/coder.gif" />
  </div>
 </div>
 
-### 🖥️ I’m currently working on [MVC REST APIs](https://github.com/VALIANTGUARDIAN/mvc-api) <br />
+### 🖥️ I’m currently working on [MVC REST APIs](https://github.com/digvijay10/mvc-api) <br />
 ❓ Ask me about anything related to web development and related technologies <br />
 ### ⚡ Fun fact: SEO is equally important❗❗❗
 
@@ -57,7 +57,7 @@
 ## 🌐 Socials:
 
 <div align="center">
-<a href="https://github.com/VALIANTGUARDIAN" target="_blank">
+<a href="https://github.com/digvijay10" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/digvijaysinghvg/" target="_blank">
@@ -79,16 +79,16 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=valiantguardian&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valiantguardian&show_icons=true&locale=en&layout=compact" alt="valiantguardian" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=digvijay10&show_icons=true&locale=en&layout=compact" alt="digvijay10" />
 </div>  
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valiantguardian&theme=city_light&hide_border=false" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digvijay10&theme=city_light&hide_border=false" align="center" />
 </div> 
 <br/>
 <div align="center">
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantguardian&" alt="valiantguardian" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=valiantguardian&show_icons=true&locale=en" alt="valiantguardian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=digvijay10&show_icons=true&locale=en" alt="digvijay10" />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiantguardian&hide_border=true&layout=compact" align="center" /> -->
   </div>
 
@@ -98,7 +98,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=valiantguardian&theme=chalk&no-frame=true&no-bg=true&margin-w=3" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=digvijay10&theme=chalk&no-frame=true&no-bg=true&margin-w=3" align="center" />
 </div>
 
 <br/>
@@ -106,13 +106,13 @@
 <br/>
 
 <div align="center">
-<img src="https://visitcount.itsvg.in/api?id=valiantguardian&icon=0&color=0" align="center" />
+<img src="https://visitcount.itsvg.in/api?id=digvijay10&icon=0&color=0" align="center" />
 </div>
 
 <br/>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/VALIANTGUARDIAN" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/digvijay10" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
