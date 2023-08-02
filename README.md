@@ -4,7 +4,7 @@
 
 # <div align="center">I'm Digvijay,<br> A Full-stack developer<br> ⚛👨‍💻🅰
   <div>
- <img align="right" height="200px" alt="GIF" src="https://github.com/digvijay10/digvijay10/blob/main/coder.gif" />
+ <img align="right" height="200px" alt="GIF" src="https://github.com/digvijaysingh10/digvijaysingh10/blob/main/coder.gif" />
  </div>
 </div>
 
