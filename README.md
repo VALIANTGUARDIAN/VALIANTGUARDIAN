@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/digvijay10/digvijay10/blob/main/banner.png" align="center" style="width: 100%" />
+<img src="[https://github.com/digvijay10/digvijay10/blob/main/banner.png](https://github.com/digvijaysingh10/digvijaysingh10/blob/main/banner.png)" align="center" style="width: 100%" />
 </div>
 
 # <div align="center">I'm Digvijay,<br> A Full-stack developer<br> ⚛👨‍💻🅰
